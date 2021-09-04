@@ -1,0 +1,23 @@
+{
+	"pais": {
+		"departamento": [
+			{
+				"cabecera": "San Salvador",
+				"habitantes": "1,700,000",
+				"altura": "545 MSNM",
+				"area": "651.31 km^2",
+				"_id": "1",
+				"_nombre": "San Salvador"
+			},
+			{
+				"cabecera": "Sensuntepeque",
+				"habitantes": "164,900",
+				"altura": "820 MSNM",
+				"area": "306.33 km^2",
+				"_id": "2",
+				"_nombre": "Cabañas"
+			}
+		],
+		"_nombre": "El Salvador"
+	}
+}

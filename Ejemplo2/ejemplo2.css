@@ -1,0 +1,20 @@
+/* ejemplo2.css :: HC15005 */
+pais {
+    background-color:blue
+}
+departamento {
+    background-color:red;
+    display:block;
+}
+cabecera {
+    color:white;
+    display:block;
+}
+habitantes {
+    color:yellow;
+    display:block;
+}
+altura {
+    color:yellow;
+    display:block;
+}

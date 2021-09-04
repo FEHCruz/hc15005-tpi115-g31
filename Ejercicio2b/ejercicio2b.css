@@ -1,0 +1,20 @@
+/* ejercicio2b.css :: HC15005 */
+pais {
+    background-color: #930;
+    font-family: sans-serif;
+}
+departamento {
+    display: block;
+    padding: 0.5em;
+}
+cabecera {
+    background-image: linear-gradient(270deg, #930 0%, #C60 50%, #930 100%);
+    text-align: center;
+    color: lightgoldenrodyellow;
+    display: block;
+}
+habitantes, altura, area, postal {
+    text-align: center;
+    color: gold;
+    display: block;
+}

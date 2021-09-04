@@ -1,0 +1,15 @@
+body{
+    background-color: #036;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.ejemplos{
+    color: orange;
+}
+.ejercicios{
+    color: antiquewhite;
+}
+.link{
+    background-image: linear-gradient(270deg, #036 0%, #06C 50%, #036 100%);
+    text-align: center;
+    color: greenyellow;
+}

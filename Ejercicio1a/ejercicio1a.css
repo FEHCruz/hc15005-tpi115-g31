@@ -1,0 +1,19 @@
+/* ejercicio1a.css :: HC15005 */
+fichero {
+    background-color:#036;
+    font-family: sans-serif;
+    text-align: center;
+}
+ficha {
+    padding: 0.5em;
+    display: block;
+}
+nombre, apellido {
+    color:lime;
+    display: inline-block;
+}
+direccion, telefono, correo {
+    color:tan;
+    display: block;
+}
+

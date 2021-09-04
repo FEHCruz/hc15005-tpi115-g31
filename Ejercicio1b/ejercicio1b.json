@@ -1,0 +1,32 @@
+{
+	"fichero":{"ficha":[
+			{
+				"@id":"1",
+				"@fechaingreso":"1/11/2012",
+				"nombre":"Antonio",
+				"apellido":"Barbero",
+				"direccion":"Calle de Los Andes, 45",
+				"telefono":"9876-2345"
+			},
+			{
+				"@id":"2",
+				"@fechaingreso":"3/9/2021",
+				"nombre":"Félix",
+				"apellido":"Henríquez",
+				"direccion":"Calle Principal, 222",
+				"telefono":"7487-4685",
+				"correo":"fel1x96@hotmail.es"
+			},
+			{
+				"@id":"3",
+				"@fechaingreso":"3/9/2021",
+				"nombre":"Gerardo",
+				"apellido":"Rodríguez",
+				"direccion":"Calle Circunvalación, 5135",
+				"telefono":"6152-4637",
+				"dui":"02894565-7",
+				"isss":"54649816-3496",
+				"afp":"156991540"
+			}
+		]}
+}
